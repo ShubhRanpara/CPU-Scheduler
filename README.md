@@ -1,5 +1,5 @@
 # CPU-Scheduler
-This repository contains my term assignment of OS. The purpose of this project is to understand and get hands-on practice of the CPU scheduling algorithms.
+This is my menu-driven term assignment for OS written in C. This project aims to understand and get hands-on practice with the CPU scheduling algorithms.
 
 ## Follow the below instructions to run the application
 
